@@ -4,7 +4,11 @@ Esto es un pequeño ejemplo de una aplicación de finanzas personales.
 Tiene como finalidad lo siguiente:
 - LLevar un registro de gastos, ingresos e inversiones.
 - Cuente con un algoritmo para pagar deudas (o sea que tú mismo lleves registro en cuánto tiempo pagarías la deuda dependiendo de la tasa de interés y del CAT), o sea que es un simulador de deudas jaja
-- 
+- Que se pueda visualizar el progreso de alguna inversión (Pendiente)
+- Accesos directos para registrar gastos e ingresos (Pendiente) (Widgets en el Launcher)
+- La opción de formar un presupuesto y notificarme si me he excedido
+- Aprender Finanzas
+- Alguna forma de implementar la IA correctamente en el manejo de la aplicación
 
 
 
